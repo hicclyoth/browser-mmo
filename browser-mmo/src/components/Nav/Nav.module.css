@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav .logo {
+  max-height: 5vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+nav .logo img {
+  max-height: 5vh;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+nav .buttons button {
+  margin: 0 0.5vw;
+}/*# sourceMappingURL=Nav.module.css.map */
